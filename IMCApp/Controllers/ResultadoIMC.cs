@@ -5,6 +5,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+/*Nombre de la escuela: Universidad Tecnológica Metropolitana
+Asignatura: Aplicaciones Web Orientadas a Objetos
+Nombre del Maestro:Joel Ivan Chuc Uc 
+Nombre de la actividad: Ejercicio II.- Palindromos
+Nombre del alumno: Guillermo Aldair Paredes Ayala
+Cuatrimestre: 4
+Grupo: B
+Parcial: 1
+*/
+
 namespace IMCApp.Controllers
 {
     [Route("api/[controller]")]
